@@ -1,2 +1,6 @@
 Actriz 3
+<<<<<<< HEAD
 Actriz 4
+=======
+Actriz 5
+>>>>>>> test2
